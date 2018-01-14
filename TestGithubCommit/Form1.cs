@@ -16,5 +16,15 @@ namespace TestGithubCommit
         {
             InitializeComponent();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void fontDialog1_Apply(object sender, EventArgs e)
+        {
+
+        }
     }
 }
